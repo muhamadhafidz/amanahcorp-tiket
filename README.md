@@ -2,7 +2,7 @@
 
 Untuk program tiket ini tidak dilanjutkan hingga selesai, karena beberapa faktor :
 - file SQL yang terlalu besar, importnya terdapat kesulitan (tetapi alhamdulillah berhasil import)
-- database yang diberikan sepertinya kurang beberapa table lagi (file yang diberikan hanya ada 2 table) untuk melakukan relasi, seperti table khusus data witel. Dan juga di table measuring_indications mungkin diperlukan witel_sto_id untuk lebih mudah dalam melakukan panggilan jika sudah terelasi.
+- database yang diberikan sepertinya kurang beberapa table lagi untuk melakukan relasi  (file yang diberikan hanya ada 2 table), seperti table khusus data witel. Dan juga di table measuring_indications mungkin diperlukan witel_sto_id untuk lebih mudah dalam melakukan panggilan jika sudah terelasi.
 - informasi mengenai angka pada contoh digambar, dan juga penjelasan colom table yang ditampilkan
 
 <hr>
